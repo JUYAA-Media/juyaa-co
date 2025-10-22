@@ -1,11 +1,14 @@
 ---
-title: Home
+title: Start Here
 layout: home
 ---
 
 # Introduction
 
 This paper outlines the concept for a co-operative organization (“The Collective”) for workers in the film and television industry who work on JUYAA Media projects to participate in profit side of the industry.
+
+## What is JUYAA?
+JUYAA (joo-YAH) is a project we conceived to tackle the complex and systemic issues that hold back the Caribbean Film and Television Industry. The team envisioned a  digital-first eco-system that could foster emergent Caribbean film and television projects. Providing access to critical business support, infrastructure and investment to take projects from concept to screen and allow creators to focus on what they are best at, ** Creating **
 
 ## Why?
 
@@ -17,10 +20,4 @@ Adopting a structured approach allows us to harness this goodwill in a measurabl
 
 ## Why not make JUYAA Media a co-operative?
 
-### JUYAA Media will operate as a federated co‑operative, uniting the Creator Collective and founding partner organizations under a shared democratic structure. Founding partners will hold a defined minority stake to recognize their role in launching the enterprise. In the long term, JUYAA Media’s roadmap includes exploring mechanisms, such as a parallel share‑issuing entity allowing for broader public investment while safeguarding co‑operative control.
-
-### How does this work with Non-JUYAA Productions?
-
-The goal of JUYAA Media is to develop models for sustainable production. The Collective and all agreements will be available to any regional productions that wish to be a signatory, regardless of affiliation with JUYAA Media or not.  
-  
-The collective agreements would only apply to classes of production that offer some form of profit-participation or long-term royalties
+JUYAA Media will operate as a federated co‑operative, uniting the Creator Collective and founding partner organizations under a shared democratic structure. Founding partners will hold a defined minority stake to recognize their role in launching the enterprise. In the long term, JUYAA Media’s roadmap includes exploring mechanisms, such as a parallel share‑issuing entity allowing for broader public investment while safeguarding co‑operative control.
