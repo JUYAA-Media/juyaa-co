@@ -8,7 +8,7 @@ layout: home
 This paper outlines the concept for a co-operative organization (“The Collective”) for workers in the film and television industry who work on JUYAA Media projects to participate in profit side of the industry.
 
 ## What is JUYAA?
-JUYAA (joo-YAH) is a project we conceived to tackle the complex and systemic issues that hold back the Caribbean Film and Television Industry. The team envisioned a  digital-first eco-system that could foster emergent Caribbean film and television projects. Providing access to critical business support, infrastructure and investment to take projects from concept to screen and allow creators to focus on what they are best at, ** Creating **
+JUYAA (joo-YAH) is a project we conceived to tackle the complex and systemic issues that hold back the Caribbean Film and Television Industry. The team envisioned a  digital-first eco-system that could foster emergent Caribbean film and television projects. Providing access to critical business support, infrastructure and investment to take projects from concept to screen and allow creators to focus on what they are best at, **Creating**
 
 ## Why?
 
