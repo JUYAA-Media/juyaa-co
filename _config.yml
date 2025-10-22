@@ -3,6 +3,7 @@ description: A Co-operative to lead the Caribbean Film & TV Industry
 theme: just-the-docs
 
 url: https://juyaa.co
+favicon_ico: "/assets/img/favicon.ico"
 
 aux_links:
  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
