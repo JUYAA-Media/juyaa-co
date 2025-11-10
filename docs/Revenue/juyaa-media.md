@@ -1,6 +1,7 @@
 ---
 title: JUYAA Media
 layout: page
+parent: Revenue
 ---
 # JUYAA Media
 

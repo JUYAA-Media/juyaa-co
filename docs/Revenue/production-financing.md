@@ -1,6 +1,7 @@
 ---
 title: Production Financing
 layout: page
+parent: Revenue
 ---
 # Production Financing
 ## Payroll Financing

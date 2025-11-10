@@ -1,6 +1,7 @@
 ---
 title: Vertical Investment
 layout: page
+parent: Revenue
 ---
 # Vertical Investment
 ## Objective

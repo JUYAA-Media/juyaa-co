@@ -1,6 +1,7 @@
 ---
 title: Project Equity
 layout: page
+parent: Revenue
 ---
 # Project Equity
 ## Purpose
