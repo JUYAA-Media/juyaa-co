@@ -1,3 +1,8 @@
+---
+title: Revenue
+layout: page
+---
+
 The Collective will primarily generate revenue from the following areas
 - [[juyaa-media]]
 - [[production-financing]]
