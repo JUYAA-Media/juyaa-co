@@ -1,6 +1,7 @@
 ---
 title: Membership
 layout: page
+nav_order: "4"
 ---
 # Membership
 The Co-operative will be open to every member of the Caribbean Motion Picture Industry
