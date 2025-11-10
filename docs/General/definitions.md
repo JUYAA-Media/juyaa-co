@@ -4,12 +4,11 @@ layout: page
 parent: General
 ---
 # Definitions
----
+
 ### "Board Sponsors"
 Two sitting directors who agree to shepherd a Proposal through the process.
-___
 ### "General Membership"
----
+
 ### "Motion Picture Industry"
  The technological, creative, and commercial institutions involved in the conception, production, distribution, and exhibition of audiovisual works for screen‑based consumption.
  
@@ -26,7 +25,7 @@ ___
 ### "Proposal"
 A written request submitted by any member using the Standard Proposal Form
 ### "Permanent Share"
-As defined in [[../Membership/equity|equity]]
+As defined in [[../membership/equity|equity]]
 ### "Random Members"
 Members selected by sortition from the active roster using the procedure in Section 4.3.
 ### "Sub‑Committee (“SC”)" 
