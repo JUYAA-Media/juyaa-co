@@ -1,7 +1,7 @@
 The Collective will primarily generate revenue from the following areas
-- [[JUYAA Media]]
-- [[Production Financing]]
-- [[Project Equity]]
-- [[Vertical Investment]]
+- [[juyaa-media]]
+- [[production-financing]]
+- [[project-equity]]
+- [[vertical-investment]]
 - Services
-- [[Anchor Fund]]
+- [[anchor-fund]]
