@@ -49,6 +49,7 @@ The Committee shall:
 - Attendance and participation
 - Strategic deliverables
 - Financial health and impact outcomes
+
 #### Review and recommend adjustments to compensation annually, or mid-year if justified by performance or market conditions.
 
 #### Oversee disclosure and transparency, including:
