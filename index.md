@@ -41,7 +41,7 @@ JUYAA is built on a hybrid structure designed to balance community ownership wit
 
 It consists of two interconnected entities:
 - **The JUYAA Creator Collective** – A cooperative entity owned and governed by its members, who are active practitioners in the Caribbean motion picture industry. This body holds the core values of JUYAA and ensures that decision-making remains rooted in the interests of creators and communities.
-- **[JUYAA Media](<./Revenue/juyaa-media.md>)** – A corporate entity owned by The Collective, with the ability to issue limited additional ownership to aligned investors and partners. This allows JUYAA to explore diverse fundraising opportunities without compromising the independence or integrity of The Collective.
+- **[JUYAA Media](<./docs/Revenue/juyaa-media.md>)** – A corporate entity owned by The Collective, with the ability to issue limited additional ownership to aligned investors and partners. This allows JUYAA to explore diverse fundraising opportunities without compromising the independence or integrity of The Collective.
 
 This structure directly addresses a key challenge in the global industry: the volatility caused by centralized decision-making and external financial priorities. By placing ownership in the hands of creators and building a model that is not dependent on government incentives or short-term funding, JUYAA is creating a resilient foundation for long-term growth.
 
