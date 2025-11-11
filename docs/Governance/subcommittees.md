@@ -17,7 +17,7 @@ Subcommittees serve to:
 ### Board-led Subcommittees
 The Board may establish subcommittees from time to time to support the achievement of specific strategic objectives, operational needs, or as required by the provisions of The Collective's by-laws.
 ### Member-led Subcommittees
-Any member of the co-operative may propose the formation of a subcommittee to advance a strategic objective that aligns with the co-operative’s mission, bylaws, or approved operational framework.
+Any member of The Collective may propose the formation of a subcommittee to advance a strategic objective that aligns with The Collective’s mission, bylaws, or approved operational framework.
 
 The proposing member shall submit to the Board of Directors:
 - A written rationale outlining the purpose and intended outcomes of the subcommittee.
