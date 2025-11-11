@@ -6,22 +6,43 @@ nav_order: "1"
 # Introduction
 
 ## What is JUYAA?
-JUYAA (joo-YAH) is all about the big picture. A the digital-first eco-system for Caribbean film and television projects. Providing access to critical business support, infrastructure and investment to take projects from concept to screen and allow creators to focus on what they are best at,
+JUYAA (joo-YAH) is all about the big picture. It is a movement to reimagine the Caribbean film and television industry from the ground up. Our mission is to build a holistic ecosystem that supports creators, communities, and culture in meaningful and lasting ways.
 
-Creating.
+We must shift away from a model centered on destination shoots and commercial client production. Instead, JUYAA is focused on industry sustainability and local leadership, bringing together the critical pieces needed to empower Caribbean storytellers and transform the region into a globally recognized creative force.
 
-This outlines the concept for a co-operative organization (“The Collective”) for workers in the film and television industry who work on JUYAA Media projects to participate in profit side of the industry.
-## Why?
-One of JUYAA Media's main objectives is to create sustainable production models for indigenous Caribbean content. To achieve this, we must employ innovative strategies to make the most of our limited funding while expanding our production capacity.
+At the heart of JUYAA is a commitment to:
 
-In the realm of independent production, crews often accept lower pay to make these projects possible. While sometimes this is compensated through revenue-sharing, it often relies solely on goodwill and passion with the reality that most independent projects will likely never produce any profit. However, given the current industry and economic conditions, there are limits to how far goodwill and passion can take us.
+- **Ecosystem Development:** Providing access to essential business support, infrastructure, and investment to ensure that projects can move from concept to screen with integrity and impact.
 
-Adopting a structured approach allows us to harness this goodwill in a measurable and distributable manner, benefiting those who are the industry's foundation. A cooperative model enables not only equitable profit sharing but also collective risk management and shared success across multiple productions, much like a diversified investment portfolio.
-## Why not make JUYAA Media a co-operative?
+- **Creative Empowerment:** By removing barriers and streamlining production pathways, JUYAA allows creators to focus on what they do best: creating. We nurture talent, not just transactions.
 
- JUYAA Media will operate as a federated co‑operative, uniting the Creator Collective and founding partner organizations under a shared democratic structure. Founding partners will hold a defined minority stake to recognize their role in launching the enterprise. In the long term, JUYAA Media’s roadmap includes exploring mechanisms, such as a parallel share‑issuing entity allowing for broader public investment while safeguarding co‑operative control.
-### How does this work with Non-JUYAA Productions?
+- **Cultural Leadership:** We envision a future where the voices of Caribbean creators lead the narrative, shaping the global industry through our knowledge, values, and visionary storytelling.
 
-The goal of JUYAA Media is to develop models for sustainable production. The Collective and all agreements will be available to any regional productions that wish to be a signatory, regardless of affiliation with JUYAA Media or not.  
-  
-The collective agreements would only apply to classes of production that offer some form of profit-participation or long-term royalties
+- **Sustainable Growth:** Our approach is rooted in long-term thinking, supporting regenerative practices, equitable partnerships, and locally-driven innovation that benefits both people and planet.
+
+JUYAA is about bringing the pieces together: training, funding, infrastructure, distribution, and cultural stewardship to build a resilient and inclusive Caribbean film industry. One that reflects who we are, where we come from, and where we’re going.
+
+## What is The JUYAA Creator Collective?
+The global film industry is volatile with its direction often shaped by a small group of decision-makers whose priorities lie outside the long-term health of the industry. This imbalance leaves creators vulnerable to shifting trends, external agendas, and funding models that rarely serve our communities or our stories.
+
+In the Caribbean, this volatility is compounded by a dependence on government incentives and external financing that do not prioritize the growth of our local industry. These sources are often temporary, transactional, and misaligned with the cultural and economic needs of Caribbean creators.
+
+**The JUYAA Creator Collective ("The Collective")** is our response; a cooperative organization made up of practitioners of all disciplines and levels in the Caribbean motion picture industry. It is designed to return ownership and decision-making power to those who actually build the industry: the creators.
+
+Through The Collective, members gain:
+- Shared ownership of the ecosystem developed under JUYAA, including infrastructure, resources, and strategic direction.
+- A pathway to stability, moving beyond the seasonal and project-based nature of the industry into models that support long-term wealth, career growth, and community investment.
+- A values-driven framework, where creative integrity, cultural leadership, and sustainability guide every decision rather than profit margins or external agendas.
+
+The JUYAA Creator Collective is about reclaiming control, building resilience, and ensuring that the future of Caribbean film is shaped by those who live it, love it, and lead it.
+## How does it work?
+
+JUYAA is built on a hybrid structure designed to balance community ownership with strategic flexibility, ensuring the long-term sustainability and independence of the Caribbean film industry.
+
+It consists of two interconnected entities:
+- **The JUYAA Creator Collective** – A cooperative entity owned and governed by its members, who are active practitioners in the Caribbean motion picture industry. This body holds the core values of JUYAA and ensures that decision-making remains rooted in the interests of creators and communities.
+- **JUYAA Media** – A corporate entity owned by The Collective, with the ability to issue limited additional ownership to aligned investors and partners. This allows JUYAA to explore diverse fundraising opportunities without compromising the independence or integrity of The Collective.
+
+This structure directly addresses a key challenge in the global industry: the volatility caused by centralized decision-making and external financial priorities. By placing ownership in the hands of creators and building a model that is not dependent on government incentives or short-term funding, JUYAA is creating a resilient foundation for long-term growth.
+
+JUYAA Media will serve as the public-facing arm of the ecosystem, responsible for revenue-generating activities such as production, distribution, partnerships, and commercial ventures. Meanwhile, The Collective ensures that all activities align with the broader mission of building an Indigenous-led, sustainable Caribbean film industry.
