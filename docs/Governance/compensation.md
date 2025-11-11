@@ -4,10 +4,21 @@ layout: page
 parent: Governance
 ---
 # Compensation
+
+## Renumeration and Benefits Schedule
+
+The Remuneration and Benefits Schedule is produced annually by the [[Compensation Committee]] to provide a transparent record of all compensation, honoraria, and benefits approved for the fiscal year. Its purpose is to:
+
+- Ensure accountability by documenting the financial recognition granted to directors, officers, and committee members in accordance with cooperative bylaws and governance standards.
+- Promote transparency by making clear to members the basis, scope, and structure of remuneration and honoraria.
+- Support fiscal planning by aligning compensation commitments with the cooperative’s annual budget and long‑term sustainability goals.
+- Affirm equity and fairness by applying consistent principles across roles, ensuring that honoraria and benefits reflect responsibilities and contributions.
+
+Provide a reference tool for auditors, regulators, and members, serving as the authoritative schedule for the fiscal year.
 ## Compensation Committee
 
 ### Purpose
-The Compensation Committee is established to oversee and recommend policies related to the remuneration of theCollective's’s leadership, governance participants, and key contributors. Its role is to ensure that compensation practices are:
+The Compensation Committee is established to oversee and recommend policies related to the remuneration of the Collective's leadership, governance participants, and key contributors. Its role is to ensure that compensation practices are:
 
 - Fair and transparent
 - Aligned with the co-op’s mission and financial sustainability
@@ -52,7 +63,4 @@ ___
 - Membership requirements will be per established Subcommittee rules
 - **Chair** appointed by the Board; responsible for convening meetings and reporting.
 ___
-
-### Function
-At the sta
 ## Honararia
