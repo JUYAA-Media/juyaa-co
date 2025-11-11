@@ -60,7 +60,6 @@ All SC members file a short COI disclosure before first meeting.
 ### Recusal
 Members with material personal/financial conflicts on the proposal’s direct outcome must recuse from voting but may provide subject‑matter input as requested. 
 
----
 ## Budgets
 ### Board-Initiated Subcommittees
 All subcommittees formed by the Board must develop and submit an operational budget for Board approval at the start of their term.
@@ -68,24 +67,23 @@ Budgets may be updated periodically as needed, but any revisions must be resubmi
 
 ### Member-Initiated Subcommittees
 Subcommittees initiated by members may submit budget proposals to the Board to request funding for specific activities or initiatives.
-Approval of funding is subject to:
 
+Approval of funding is subject to:
 - Availability of funds within the Collective’s budget.
-- Reasonableness of the amount requested.
+- Amount requested.
 - Alignment with the Collective’s strategic goals and policies.
 
 ### Expense Reimbursement Policy
-No expenses incurred by Member-Initiated Subcommittees will be reimbursed without a Board-approved budget in place.
-Members are encouraged to seek budget approval prior to incurring any costs to ensure eligibility for reimbursement.
+- No expenses incurred by Member-Initiated Subcommittees will be reimbursed without a Board-approved budget in place.
+- Members are encouraged to seek budget approval prior to incurring any costs to ensure eligibility for reimbursement.
 
----
 ## Mandatory Subcommittees
 
 The Board will be required to convene the following committees on an annual basis.
 - Budget Committee
 - Governance Committee
 - Compensation Committee
----
+
 ## Compensation
 
 - Board-Initiated Subcommittee members will be paid an honoraria based upon Renumeration and Benefits Schedule.
