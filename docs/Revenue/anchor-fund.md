@@ -6,12 +6,12 @@ parent: Revenue
 # Anchor Fund
 ## Purpose
 
-The Anchor Fund is a **long-term, values-aligned investment portfolio** designed to:
+The Anchor Fund is a long-term, values-aligned investment portfolio designed to:
 
-- Provide **stable, predictable income** to sustain the co-op’s daily operations.
-- Build **capital reserves** for future growth and strategic initiatives.
-- Act as a **financial buffer** against the cyclical and unpredictable nature of film and TV production revenues.
----
+- Provide stable, predictable income to sustain the co-op’s daily operations.
+- Build capital reserves for future growth and strategic initiatives.
+- Act as a financial buffer against the cyclical and unpredictable nature of film and TV production revenues.
+
 ## Core Principles
 1. **Passive Management**
     - Use low-cost, diversified index funds and ESG-compliant vehicles to minimize risk and administrative overhead.
@@ -22,7 +22,7 @@ The Anchor Fund is a **long-term, values-aligned investment portfolio** designed
 4. **Long-Term Horizon**
     - Focus on steady growth and capital preservation over 10+ years, with annual rebalancing.
 
----
+
 ## Target Allocation (Yale-Inspired, Passive & ESG-Compliant)
 
 |Asset Class|Allocation|Role in Anchor Fund|
@@ -35,7 +35,6 @@ The Anchor Fund is a **long-term, values-aligned investment portfolio** designed
 |**Cash & Short-Term ESG Instruments**|5%|Liquidity for operations and payroll financing|
 |**Community Impact Funds**|15%|Direct alignment with co-op values and regional development|
 
----
 ## Revenue Strategy
 
 - **Annual Drawdown:** 3–5% of portfolio value to fund co-op operations and payroll financing pool.
@@ -51,7 +50,7 @@ The Anchor Fund is a **long-term, values-aligned investment portfolio** designed
 - **Reporting:** Quarterly performance reports and annual impact audits.
 - **Rebalancing:** Annually to maintain target allocation and liquidity.
 
----
+
 ## Risk Management
 
 - Diversification across asset classes and geographies.
@@ -59,7 +58,7 @@ The Anchor Fund is a **long-term, values-aligned investment portfolio** designed
 - Stress testing for market downturns.
 - Strict ESG compliance to avoid reputational risk.
 
----
+
 ## Implementation Roadmap
 
 **Phase 1 (Months 1–3):**
