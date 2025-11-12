@@ -86,6 +86,57 @@ JUYAA Studios is the production financing arm of JUYAA Media, a pioneering ventu
     - Creative Executives manage business development, financing, and distribution.
 4. **Cultural Impact & Global Reach**  
     The fund is designed not only to support Caribbean stories but also to ensure they resonate globally. By investing in both creative and business infrastructure, JUYAA Studios aims to elevate Caribbean culture on the world stage.
+
+### JUYAA Productions
+JUYAA Productions is the dedicated production services division of JUYAA Media, designed to provide high-quality, scalable, and collaborative infrastructure for film and television production across the Caribbean. Its mission is to empower regional storytellers and streamline production workflows, while fostering a thriving ecosystem for local and international content creators.
+#### Purpose
+JUYAA Productions exists to:
+- Deliver **end-to-end production services** for JUYAA Media’s internal projects and external clients.
+- Offer **shared infrastructure** that reduces overhead and increases access to professional-grade resources.
+- Strengthen the **Caribbean motion picture industry** by making production more accessible, efficient, and globally competitive.
+
+#### Key Services Offered
+JUYAA Productions provides a comprehensive suite of services, including but not limited to:
+##### Production Management
+- Line producing and budgeting
+- Scheduling and logistics coordination
+- Crew sourcing and management
+
+##### Technical Services
+- Equipment rental (cameras, lighting, grip)
+- On-set technical support
+- Post-production facilities (editing, color grading, sound design)
+
+##### Studio & Location Services
+- Access to sound stages and production offices
+- Location scouting and permitting
+- Set construction and design
+
+##### Talent & Casting Support
+- Casting services for actors and extras
+- Talent coordination and contracts
+- Union and guild compliance
+
+##### Shared Infrastructure & Resources
+- Centralized production database and asset management
+- Insurance and legal support
+- Transportation and catering coordination
+
+##### Regional Collaboration & Co-Production Support
+- Facilitating cross-island productions
+- Supporting international co-productions with local expertise
+- Navigating regional incentives and funding opportunities
+
+#### Strategic Integration with The Collective
+While JUYAA Productions serves as the central production services hub, it may not directly own or operate all the services it offers. Instead, many capabilities are made available through **The Collective’s vertical investment strategy**, which acquires strategic minority stakes in key service providers across the motion picture value chain. This approach enables JUYAA Productions to leverage preferred vendor relationships, shared infrastructure, and cross-portfolio synergies such as equipment rentals, sound stages, post-production suites, and logistics without the overhead of full ownership. By aggregating demand and aligning incentives, JUYAA Productions ensures access to high-quality services while supporting the growth and sustainability of the broader Caribbean film ecosystem.
+
+#### Industry Impact
+By offering these services, JUYAA Productions aims to:
+
+- **Lower barriers to entry** for emerging filmmakers.
+- **Increase production quality** across the region.
+- **Attract international productions** to the Caribbean.
+- **Create jobs and build capacity** in technical and creative roles.
 ## Programmes
 ### JUYAASpark
 JUYAA Spark is a proposed transformative accelerator programme to be developed through a strategic partnership between JUYAA Media Group, IDB Lab, and The University of the West Indies (The UWI). Its mission is to cultivate a new generation of Creative Executives: visionary leaders who will drive the growth and global success of the Caribbean motion picture industry.
