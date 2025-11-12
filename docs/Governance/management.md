@@ -7,14 +7,17 @@ parent: Governance
 ## Purpose
 To implement the strategic direction set by the Committee (Board), manage day-to-day operations, and ensure the co-op fulfills its mission across production, investment, finance, and member services—while remaining compliant with Jamaican law and co-operative principles.
 ## Roles
-**Chief Executive Officer (CEO)** 
+Chief Executive Officer (CEO)
 : Overall leadership, strategic execution, stakeholder engagement, reporting to the Committee. 
-**Chief Financial Officer (CFO)**
+
+Chief Financial Officer (CFO)
 : Financial planning, Anchor Fund oversight, payroll financing, budgeting, compliance with audit and reserve requirements.
-**Chief Investment Officer (CIO)**
-: Manages vertical investments, due diligence, portfolio performance, and integration decisions.                           |
-**Director of Member Services** 
-: Oversees member onboarding, equity-for-discount programme, training, and member communications.         
+
+Chief Investment Officer (CIO)
+: Manages vertical investments, due diligence, portfolio performance, and integration decisions.
+
+Director of Member Services
+: Oversees member onboarding, equity-for-discount programme, training, and member communications. 
 
  These roles may be full-time or part-time depending on scale. In early stages, roles may be combined or filled by contracted professionals.
 ## Reporting & Accountability
