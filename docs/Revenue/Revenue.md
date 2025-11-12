@@ -5,8 +5,8 @@ layout: page
 # Revenue
 
 The Collective will primarily generate revenue from the following areas
-- [JUYAA Media](./docs/Revenue/juyaa-media)
-- [Production Financing](/docs/Revenue/production-financing)
+- [JUYAA Media](<./juyaa-media.md>)
+- [Production Financing](<./production-financing.md>)
 - [Project Equity](<./project-equity.md>)
 - [Vertical Investment](<./vertical-investment.md>)
 - [Services](<./services.md>)
