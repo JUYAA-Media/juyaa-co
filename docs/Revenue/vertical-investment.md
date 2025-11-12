@@ -5,9 +5,9 @@ parent: Revenue
 ---
 # Vertical Investment
 ## Objective
-The co-op will develop a resilient, revenue-generating investment portfolio across the motion picture value chain by acquiring strategic stakes in essential companies, services, and infrastructure. Rather than operating these businesses directly, the co-op will leverage its collective purchasing power, production pipeline, and talent network to create long-term competitive advantages for its portfolio companies.
+The Collective will develop a resilient, revenue-generating investment portfolio across the motion picture value chain by acquiring strategic stakes in essential companies, services, and infrastructure. Rather than operating these businesses directly, The Collective will leverage its purchasing power, production pipeline, and talent network to create long-term competitive advantages for its portfolio companies.
 
-Each opportunity will be assessed through a structured framework to determine whether it is best suited for this minority investment strategy; preserving operational independence while influencing key policies, or full acquisition and integration into the [[juyaa-media]] Group, where tighter alignment with the co-op’s mission and operations is strategically advantageous.
+Each opportunity will be assessed through a structured framework to determine whether it is best suited for this minority investment strategy; preserving operational independence while influencing key policies, or full acquisition and integration into the [JUYAA Media](<./juyaa-media.md>) Group, where tighter alignment with The Collective’s mission and operations is strategically advantageous.
 ## Approach:
 - Target 15–40% minority stakes (case‑by‑case), with information rights, board observer/seat, and reserved matters to influence high‑level policy and key operations when necessary.
 - Blend cash equity with structured minority instruments (e.g., preferred equity, revenue‑share notes, equipment SPVs) to match sector risk.
@@ -18,24 +18,24 @@ Reduces operational overhead for the co‑op.
 Lowers regulatory/antitrust risk and capital intensity while preserving influence.
 ## Target Verticals & Sub‑Sectors 
 #### A. Development & IP Services
-Script coverage & development funds, writers’ rooms, story/IP scouting platforms.
-Legal/clearance firms, completion bond brokers.
+- Script coverage & development funds, writers’ rooms, story/IP scouting platforms.
+- Legal/clearance firms, completion bond brokers.
 #### B. Production Services & Infrastructure
-Sound stages, backlots, production hubs, power/generators, grid tie‑ins.
-Equipment rental (camera, grip/lighting, drone, specialty rigs).
-Logistics: unit moves, transport, storage, set construction, prop/wardrobe houses.
-Insurance & payroll providers specialized for film/TV.
-Catering/craft services at scale with sustainability standards.
+- Sound stages, backlots, production hubs, power/generators, grid tie‑ins.
+- Equipment rental (camera, grip/lighting, drone, specialty rigs).
+- Logistics: unit moves, transport, storage, set construction, prop/wardrobe houses.
+- Insurance & payroll providers specialized for film/TV.
+- Catering/craft services at scale with sustainability standards.
 #### C. Post‑Production & Finishing
-Picture (offline/online editing), VFX, color, DI, dailies, QC.
-Sound (ADR, Foley, mix stages, music supervision).
-Localization: dubbing/subtitling, accessibility, M&E tracks.
-Archiving & MAM/DAM solutions.
+- Picture (offline/online editing), VFX, color, DI, dailies, QC.
+- Sound (ADR, Foley, mix stages, music supervision).
+- Localization: dubbing/subtitling, accessibility, M&E tracks.
+- Archiving & MAM/DAM solutions.
 #### E. Technology & Workflow
-Production management SaaS (scheduling, budgeting), secure collaboration & review.
-Remote production, virtual production (LED volumes, real‑time engines).
-AI‑assisted localization, QC, compliance checks (human‑in‑the‑loop).
-Data/analytics for audience insights, pricing, and windowing optimization.
+- Production management SaaS (scheduling, budgeting), secure collaboration & review.
+- Remote production, virtual production (LED volumes, real‑time engines).
+- AI‑assisted localization, QC, compliance checks (human‑in‑the‑loop).
+- Data/analytics for audience insights, pricing, and windowing optimization.
 ___
 ## Governance & Influence (without Day‑to‑Day Control)
 #### Instruments to retain influence:
@@ -60,29 +60,28 @@ ___
 - Cross‑sell services across the portfolio; bundle offers (e.g., production + post + localization packages).
 - Launch Preferred Vendor Network branding to attract third‑party clients.
 ### Operational Uplift
-Shared playbooks for scheduling, pricing tiers, pipeline management, and client onboarding.
-Centralize procurement, insurance, and compliance where feasible.
-Implement data dashboards: utilization rates, set‑day throughput, turn‑time, rework rates.
+- Shared playbooks for scheduling, pricing tiers, pipeline management, and client onboarding.
+- Centralize procurement, insurance, and compliance where feasible.
+- Implement data dashboards: utilization rates, set‑day throughput, turn‑time, rework rates.
 ### Technology Enablement
-Standardize on secure collaboration and review systems across companies.
-Sponsor automation (dailies ingest, QC, versioning) to reduce rework and rush fees.
-Pilot AI‑assisted localization/QC with human oversight to expand margins.
+- Standardize on secure collaboration and review systems across companies.
+- Pilot AI‑assisted localization/QC with human oversight to expand margins.
 ### Talent & Training
-Create an academy co‑developed with portfolio firms; guarantee interview pathways.
-Offer stackable credentials (grip, DIT, color assistant, conform, mix tech).
-Diversity & inclusion goals tied to portfolio hiring KPIs.
+- Create an academy co‑developed with portfolio firms; guarantee interview pathways.
+- Offer stackable credentials (grip, DIT, color assistant, conform, mix tech).
+- Diversity & inclusion goals tied to portfolio hiring KPIs.
 ### Sustainability
-Green production protocols (power plans, waste, transport).
-Measure CO₂ per shoot day; incentivize reductions with fee rebates or shared savings.
+- Green production protocols (power plans, waste, transport).
+- Measure CO₂ per shoot day; incentivize reductions with fee rebates or shared savings.
 ___
 ## Deal Sourcing & Screening
 ### Sourcing Channels
-Industry referrals, guilds/unions, vendors, festivals/markets, accelerators.
-Outbound mapping of regional production ecosystems (gaps in stages, rental, post).
-Corporate carve‑outs where founders want liquidity but ongoing leadership.
+- Industry referrals, associations/unions, vendors, festivals/markets, accelerators.
+- Outbound mapping of regional production ecosystems (gaps in stages, rental, post).
+- Corporate carve‑outs where founders want liquidity but ongoing leadership.
 ### Screening Criteria (Scorecard)
-Strategic Fit (0–5): Relevance to portfolio synergies & member needs.
-Market Position (0–5): Niche leadership, switching costs, defensibility.
+- Strategic Fit (0–5): Relevance to portfolio synergies & member needs.
+- Market Position (0–5): Niche leadership, switching costs, defensibility.
 Unit Economics (0–5): Gross margin, utilization, WIP turns, pricing power.
 Operational Resilience (0–5): Redundancy, SLAs, QA/QC maturity.
 Governance Readiness (0–5): Reporting, controls, willingness to adopt PSAs.
