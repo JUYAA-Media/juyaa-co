@@ -76,6 +76,6 @@ Reserves
 
 ### Optional Enhancements
 - **Green Production Incentives**: Lower fees for productions meeting sustainability standards.
-- **Diversity Bonuses**: Rebates for inclusive hiring or co-op apprentices.
+- **Diversity Bonuses**: Rebates for inclusive hiring or member apprentices.
 - **Bundled Services**: Combine payroll financing with post-production or distribution support.
 - **Digital Platform**: Online portal for applications, disbursements, and reporting.
