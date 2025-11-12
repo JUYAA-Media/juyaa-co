@@ -42,14 +42,12 @@ The Anchor Fund is a long-term, values-aligned investment portfolio designed to:
 - **Impact Returns:** From renewable energy and community investments.
 - **Capital Appreciation:** Reinvested for long-term growth.
 
----
 ## Governance & Oversight
 
 - **Investment Policy Statement (IPS):** Defines objectives, ESG criteria, and prohibited sectors.
 - **Investment Committee:** Includes The Collective's leadership and external advisors for fiduciary oversight.
 - **Reporting:** Quarterly performance reports and annual impact audits.
 - **Rebalancing:** Annually to maintain target allocation and liquidity.
-
 
 ## Risk Management
 
@@ -59,20 +57,3 @@ The Anchor Fund is a long-term, values-aligned investment portfolio designed to:
 - Strict ESG compliance to avoid reputational risk.
 
 
-## Implementation Roadmap
-
-**Phase 1 (Months 1–3):**
-
-- Draft IPS with ESG screens and liquidity targets.
-- Select passive ESG ETFs and impact funds.
-- Secure custodian and reporting systems.
-
-**Phase 2 (Months 4–6):**
-
-- Deploy initial capital (e.g., $5M–$10M).
-- Begin quarterly reporting and compliance checks.
-
-**Phase 3 (Months 7–12):**
-
-- Integrate annual drawdown for operations.
-- Publish first **Impact & Performance Report**.

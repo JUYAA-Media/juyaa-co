@@ -15,6 +15,7 @@ JUYAA Media will be structured into several departments that will oversee key ar
 requirements of the department. 
 
 The initial departments will be:
+
 JUYAA Worldwide
 : Global Sales and Distribution for Caribbean motion picture projects
 JUYAA Productions
