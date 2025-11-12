@@ -83,6 +83,8 @@ The Board will be required to convene the following committees on an annual basi
 - Budget Committee
 - Governance Committee
 - Compensation Committee
+- Investment Committee
+- Membership Committee
 
 ## Compensation
 
