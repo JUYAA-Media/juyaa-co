@@ -4,12 +4,11 @@ layout: page
 parent: Revenue
 ---
 # Production Financing
-## Payroll Financing
+## Payroll Advance Financing
 
 Provide **short-term payroll financing** for local film/TV productions, enabling them to meet cashflow needs for crew and talent payments, while generating fee-based income and strategic leverage for the co-op.
 
 ---
-
 ## Core Model: Payroll Financing Facility
 
 ### How It Works
@@ -19,16 +18,15 @@ Provide **short-term payroll financing** for local film/TV productions, enabling
 - The co-op earns interest or service fees, and may negotiate preferred supplier status, **equity options**, or **profit participation**.
 
 ---
+##  Revenue Streams
 
-## 2) Revenue Streams
-
-|Source|Description|
-|---|---|
-|**Financing Fees**|Flat fee (e.g., 2–5%) or interest (e.g., 8–12% APR) on advanced payroll amounts.|
-|**Processing/Admin Fees**|Per-payroll run fee (e.g., $250–$500) for handling calculations, compliance, and disbursements.|
-|**Equity/Profit Options**|Optional conversion of fees into equity or backend points in the production.|
-|**Preferred Vendor Agreements**|Co-op secures future service contracts (e.g., post, rental, distribution) in exchange for financing.|
-|**Training Rebates**|Productions using co-op apprentices or trainees may receive discounted financing, funded by grants or public incentives.|
+| Source                          | Description                                                                                                              |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Financing Fees**              | Flat fee (e.g., 2–5%) or interest (e.g., 8–12% APR) on advanced payroll amounts.                                         |
+| **Processing/Admin Fees**       | Per-payroll run fee (e.g., $250–$500) for handling calculations, compliance, and disbursements.                          |
+| **Equity/Profit Options**       | Optional conversion of fees into equity or backend points in the production.                                             |
+| **Preferred Vendor Agreements** | Co-op secures future service contracts (e.g., post, rental, distribution) in exchange for financing.                     |
+| **Training Rebates**            | Productions using co-op apprentices or trainees may receive discounted financing, funded by grants or public incentives. |
 
 ---
 
