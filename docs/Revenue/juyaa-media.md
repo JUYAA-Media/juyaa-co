@@ -18,10 +18,13 @@ The initial departments will be:
 
 JUYAA Worldwide
 : Global Sales and Distribution for Caribbean motion picture projects
+
 JUYAA Productions
 : Shared Production Services for projects produced directly through JUYAA Media programmes or partner productions.
+
 JUYAA Studios
 : Financing Fund for Caribbean Motion Picture Productions, managed by JUYAA Media
+
 Caribbean Media Academy
 : Non-Profit arm focused on developing training/educational programmes and industry research
 
@@ -37,22 +40,17 @@ For Production investments such as the JUYAA Start projects, The Collective will
 JUYAA Media productions will hire crew primarily through The Collective. As membership is voluntary. Should a position need to be filled by a non-member, membership will be offered to that candidate. This will not be mandatory and will be paid at relevant market/negotiated rate.
 
 As equity holders, The Collective will be able to partake in any profits from JUYAA Media operations.
-
-
 # Benefits
 
 ## Profit Sharing & Risk Distribution
-
 Through The Collective, members will be able to more directly see the benefits of successful projects without needing to take on the headache of following up on the business side of each project they have worked on. Similarly, efforts on projects that do not see success are seen as building blocks to a larger industry and will see reward as well.
 
 Additionally, The Collective’s stake in JUYAA Media will see all members benefit from investments in the ENTIRE vertical of the film and television industry and not simply one aspect.
 ## Sustainable and Consistent Production
-
  By managing a portion of our escalating budgets, members will observe an increase in our ability to produce high-quality work more often. As we gain more control over the financial aspects of production, we will be able to influence the direction of our industry. Viewed as an investor, The Collective will have a voice in production operations, thereby enhancing working conditions for everyone.
 
  The dividend distribution structure will also ensure more consistent income for members over time, smoothing out the industry's fluctuations and providing greater personal stability for members.
 ## Working Conditions
-
 Greater say in working conditions and compensation.
 
 ## Industry and Community Development
