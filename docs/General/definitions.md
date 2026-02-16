@@ -14,7 +14,7 @@ Board Sponsors
 General Membership
 : Full membership as defined in by-laws
 
-Motion Picture Industry
+Visual Media Industry
 : The technological, creative, and commercial institutions involved in the conception, production, distribution, and exhibition of audiovisual works for screen‑based consumption.
 : It includes, but is not limited to, the following sectors:
 - Production Companies & Studios - financing and managing film creation
