@@ -3,6 +3,8 @@ title: Home
 layout: page
 nav_order: "1"
 ---
+<div data-fillout-id="grXULtaXibus" data-fillout-embed-type="popup" data-fillout-button-text="Join The Collective" data-fillout-dynamic-resize data-fillout-button-size="large" data-fillout-inherit-parameters data-fillout-popup-size="medium"></div><script src="https://server.fillout.com/embed/v1/"></script>
+
 # Introduction
 
 ## What is JUYAA?
@@ -27,7 +29,7 @@ The global Visual Media Industry is volatile with its direction often shaped by 
 
 In the Caribbean, this volatility is compounded by a dependence on government incentives and external financing that do not prioritize the growth of our local industry. These sources are often temporary, transactional, and misaligned with the cultural and economic needs of Caribbean creators.
 
-**The JUYAA Creator Collective ("The Collective")** is our response; a cooperative organization made up of practitioners of all disciplines and levels in the Caribbean motion picture industry. It is designed to return ownership and decision-making power to those who actually build the industry: the creators.
+**The JUYAA Creator Collective ("The Collective")** is our response; a cooperative organization made up of practitioners of all disciplines and levels in the Caribbean Visual Media Industry. It is designed to return ownership and decision-making power to those who actually build the industry: the creators.
 
 Through The Collective, members gain:
 - Shared ownership of the ecosystem developed under JUYAA, including infrastructure, resources, and strategic direction.
@@ -35,12 +37,15 @@ Through The Collective, members gain:
 - A values-driven framework, where creative integrity, cultural leadership, and sustainability guide every decision rather than profit margins or external agendas.
 
 The JUYAA Creator Collective is about reclaiming control, building resilience, and ensuring that the future of Caribbean Visual Media is shaped by those who live it, love it, and lead it.
+
+<div data-fillout-id="grXULtaXibus" data-fillout-embed-type="popup" data-fillout-button-text="Join The Collective" data-fillout-dynamic-resize data-fillout-button-size="large" data-fillout-inherit-parameters data-fillout-popup-size="medium"></div><script src="https://server.fillout.com/embed/v1/"></script>
+
 ## How does it work?
 
 JUYAA is built on a hybrid structure designed to balance community ownership with strategic flexibility, ensuring the long-term sustainability and independence of the Caribbean Visual Media Industry.
 
 It consists of two interconnected entities:
-- **The JUYAA Creator Collective** – A cooperative entity owned and governed by its members, who are active practitioners in the Caribbean motion picture industry. This body holds the core values of JUYAA and ensures that decision-making remains rooted in the interests of creators and communities.
+- **The JUYAA Creator Collective** – A cooperative entity owned and governed by its members, who are active practitioners in the Caribbean Visual Media Industry. This body holds the core values of JUYAA and ensures that decision-making remains rooted in the interests of creators and communities.
 - **[JUYAA Media](<./docs/Revenue/juyaa-media.md>)** – A corporate entity owned by The Collective, with the ability to issue limited additional ownership to aligned investors and partners. This allows JUYAA to explore diverse fundraising opportunities without compromising the independence or integrity of The Collective.
 
 This structure directly addresses a key challenge in the global industry: the volatility caused by centralized decision-making and external financial priorities. By placing ownership in the hands of creators and building a model that is not dependent on government incentives or short-term funding, JUYAA is creating a resilient foundation for long-term growth.
@@ -48,3 +53,5 @@ This structure directly addresses a key challenge in the global industry: the vo
 JUYAA Media will serve as the public-facing arm of the ecosystem, responsible for revenue-generating activities such as production, distribution, partnerships, and commercial ventures. Meanwhile, The Collective ensures that all activities align with the broader mission of building an Indigenous-led, sustainable Caribbean film industry.
 ## For an Independent Industry
 The JUYAA Creator Collective is designed to empower local content producers to retain full creative and operational independence, while benefiting from a shared core of services that reduce overhead, streamline operations, and open up access to critical resources. By pooling infrastructure, administrative support, and financial tools the Collective enables members to lower individual costs and increase efficiency without sacrificing autonomy. This cooperative model ensures that creators can focus on their craft, while still tapping into the strength of a unified ecosystem built to support long-term sustainability and regional growth.
+
+<div data-fillout-id="grXULtaXibus" data-fillout-embed-type="popup" data-fillout-button-text="Join The Collective" data-fillout-dynamic-resize data-fillout-button-size="large" data-fillout-inherit-parameters data-fillout-popup-size="medium"></div><script src="https://server.fillout.com/embed/v1/"></script>
