@@ -6,7 +6,7 @@ nav_order: "1"
 # Introduction
 
 ## What is JUYAA?
-JUYAA (joo-YAH) is all about the big picture. It is a movement to reimagine the Caribbean film and television industry from the ground up. Our mission is to build a holistic ecosystem that supports creators, communities, and culture in meaningful and lasting ways.
+JUYAA (joo-YAH) is all about the big picture. It is a movement to reimagine the Caribbean Visual Media Industry from the ground up. Our mission is to build a holistic ecosystem that supports creators, communities, and culture in meaningful and lasting ways.
 
 We must shift away from a model centered on destination shoots and commercial client production. Instead, JUYAA is focused on industry sustainability and local leadership, bringing together the critical pieces needed to empower Caribbean storytellers and transform the region into a globally recognized creative force.
 
@@ -20,9 +20,10 @@ At the heart of JUYAA is a commitment to:
 
 - **Sustainable Growth:** Our approach is rooted in long-term thinking, supporting regenerative practices, equitable partnerships, and locally-driven innovation that benefits both people and planet.
 
-JUYAA is about bringing the pieces together: training, funding, infrastructure, distribution, and cultural stewardship to build a resilient and inclusive Caribbean film industry. One that reflects who we are, where we come from, and where we’re going.
+JUYAA is about bringing the pieces together: training, funding, infrastructure, distribution, and cultural stewardship to build a resilient and inclusive Caribbean Visual Media ndustry. One that reflects who we are, where we come from, and where we’re going.
+
 ## What is The JUYAA Creator Collective?
-The global film industry is volatile with its direction often shaped by a small group of decision-makers whose priorities lie outside the long-term health of the industry. This imbalance leaves creators vulnerable to shifting trends, external agendas, and funding models that rarely serve our communities or our stories.
+The global Visual Media Industry is volatile with its direction often shaped by a small group of decision-makers whose priorities lie outside the long-term health of the industry. This imbalance leaves creators vulnerable to shifting trends, external agendas, and funding models that rarely serve our communities or our stories.
 
 In the Caribbean, this volatility is compounded by a dependence on government incentives and external financing that do not prioritize the growth of our local industry. These sources are often temporary, transactional, and misaligned with the cultural and economic needs of Caribbean creators.
 
@@ -33,10 +34,10 @@ Through The Collective, members gain:
 - A pathway to stability, moving beyond the seasonal and project-based nature of the industry into models that support long-term wealth, career growth, and community investment.
 - A values-driven framework, where creative integrity, cultural leadership, and sustainability guide every decision rather than profit margins or external agendas.
 
-The JUYAA Creator Collective is about reclaiming control, building resilience, and ensuring that the future of Caribbean film is shaped by those who live it, love it, and lead it.
+The JUYAA Creator Collective is about reclaiming control, building resilience, and ensuring that the future of Caribbean Visual Media is shaped by those who live it, love it, and lead it.
 ## How does it work?
 
-JUYAA is built on a hybrid structure designed to balance community ownership with strategic flexibility, ensuring the long-term sustainability and independence of the Caribbean film industry.
+JUYAA is built on a hybrid structure designed to balance community ownership with strategic flexibility, ensuring the long-term sustainability and independence of the Caribbean Visual Media Industry.
 
 It consists of two interconnected entities:
 - **The JUYAA Creator Collective** – A cooperative entity owned and governed by its members, who are active practitioners in the Caribbean motion picture industry. This body holds the core values of JUYAA and ensures that decision-making remains rooted in the interests of creators and communities.
